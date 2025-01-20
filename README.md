@@ -7,9 +7,9 @@
   - 📚 Dedicated to sharing knowledge and creating resources that help developers enhance their skills in coding and design.
   - 🚀 Motivated to contribute to innovative projects, bring ideas to life, and make a meaningful difference through technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshalihinar&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshalihinar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshaLihinar&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshaLihinar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshalihinar" alt="pratikshalihinar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshaLihinar" alt="pratikshaLihinar" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Spring boot**
 
