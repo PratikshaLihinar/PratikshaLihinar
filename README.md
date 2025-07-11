@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Lihinar</h1>
 
   - 🌱 A passionate developer always eager to learn, grow, and build impactful solutions.
-  - 💻 Skilled in Java, Spring Boot, MySQL, GIT and other modern technologies.
+  - 💻 Skilled in HTML, CSS, JS, REACT JS, TAILWIND CSS, POSTMAN, REST API, Java, Spring Boot, MySQL, GIT and other modern technologies.
   - 🛠️ Experienced in tackling complex Data Structures, designing efficient algorithms, and working on System Design (LLD).
   - 🤝 Open to collaborating on projects that solve real-world problems and contribute to the developer community.
   - 📚 Dedicated to sharing knowledge and creating resources that help developers enhance their skills in coding and design.
